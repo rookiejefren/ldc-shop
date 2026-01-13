@@ -11,14 +11,5 @@
     },
     "observability": {
         "enabled": true
-    },
-    "routes": [
-        {
-            "pattern": "shop.example.com",
-            "custom_domain": true
-        }
-    ],
-    "vars": {
-        "NEXT_PUBLIC_APP_URL": "https://shop.example.com"
     }
 }
